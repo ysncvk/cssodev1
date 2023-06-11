@@ -1,0 +1,32 @@
+h1{
+    color: red;
+    text-align: center;
+}
+
+h2{
+    color: purple;
+    text-align: center;
+}
+
+h3{
+    color: orange;
+    text-align:center;
+}
+
+p{
+    
+    text-align:center;
+}
+
+a {
+    color: rgb(226, 42, 171);
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+ol, ul, nav, li,article {
+    text-align:center;
+    list-style-position:inside;
+}
+
